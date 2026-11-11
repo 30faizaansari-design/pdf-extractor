@@ -1,0 +1,16 @@
+**/.env
+!**/.env.example
+venv/
+.venv/
+**/__pycache__/
+*.py[cod]
+**/node_modules/
+**/uploads/
+**/outputs/
+**/*.log
+*.tmp
+*.temp
+**/generated/
+**/test-artifacts/
+backend/app/input/*.pdf
+frontend/dist/
